@@ -14,12 +14,12 @@ But first, check to see what looks familiar here.
 print([x + 1 for x in [1, 2, 3]])
 ```
 ### [abstraction](abstraction_examples.py)
-	- functions
-		- reasons to use
-			- reuse duplicated code
-			- paramaterization
-			- make code easier to read
-		- example
+- functions
+	- reasons to use
+		- reuse duplicated code
+		- paramaterization
+		- make code easier to read
+	- example
 ```python
 def add_one(x):
 	return x + 1
